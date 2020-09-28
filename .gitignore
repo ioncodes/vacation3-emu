@@ -1,0 +1,7 @@
+.vscode/
+qlog/
+registry/
+rootfs/
+*.tmp.snapshot
+ida.py
+import_table.h
