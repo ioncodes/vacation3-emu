@@ -1,5 +1,5 @@
 # vacation3
-An emulator powered by [Qiling]() to deobfuscate/decrypt VAC3 modules.
+An emulator powered by [Qiling](https://github.com/qilingframework/qiling) to deobfuscate/decrypt VAC3 modules.
 
 ## Information
 This repository is currently a proof of concept and may require manual changing of offsets for different types of modules. The current offsets were successfully tested using the modules that are loaded upon initialization.  
